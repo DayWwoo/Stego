@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/python/PycharmProjects/ProjectStego/savemodel\\savemodel.ckpt"
+all_model_checkpoint_paths: "D:/python/PycharmProjects/ProjectStego/savemodel\\savemodel.ckpt"
